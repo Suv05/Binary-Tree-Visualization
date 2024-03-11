@@ -1,0 +1,12 @@
+.center {
+  margin: auto;
+  width: 50%;
+}
+.myinput {
+  margin: 10px 5px;
+  border-radius: 7px;
+  border: 2px solid aquamarine;
+}
+.btn {
+  min-width: 15%;
+}
